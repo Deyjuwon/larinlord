@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+body {
+  font-family: var(--font-orbitron);
+}
+
+/* Add this to ensure Orbitron is applied correctly where needed */
+.orbitron {
+  font-family: var(--font-orbitron);
+}
